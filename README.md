@@ -104,3 +104,7 @@ Web client will be live at: [http://localhost:3000](http://localhost:3000)
 - **Frontend Server**: Launches without compilation or TypeScript errors.
 - **Backend Server**: Launches with standard logs; `/health` returns `{"status": "healthy"}` correctly.
 - **Supabase Interceptor**: Automatically appends session authorization headers.
+
+## Licence
+
+MIT, see [LICENSE](LICENSE).
